@@ -1,5 +1,9 @@
 <h1 align="center">Hi I'm Farouk</h1>
 
+<p> I'm Software Engineer ,  Passionate about creating New Projects and Build New Desgin architecture 
+some technologies i working with C# ,Java script , SQLserver ,ASP.net Core , Angular +
+</p>
+
 <!--
 **faroukmahmoud19972/faroukmahmoud19972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
