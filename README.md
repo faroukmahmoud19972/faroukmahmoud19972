@@ -1,6 +1,6 @@
-<h1 align="center">Hi I'm Farouk</h1>
+<h1 align="center">Hi , I'm Farouk</h1>
 
-<p> I'm Software Engineer ,  Passionate about creating New Projects and Build New Desgin architecture 
+<p> I'm Software Engineer with one year experiense as asp.net core full stack  devopler & angular twelve  plus,  Passionate about creating New Projects and Build New Desgin architecture 
 some technologies i engoy working with C# ,Java script , SQLserver ,ASP.net Core , Angular +
 </p>
 
