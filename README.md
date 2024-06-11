@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Farouk</h1>
 
-<p> one year experiense as asp.net core full stack  devopler & angular twelve  plus,  Passionate about creating New Projects and Build New Desgin architecture 
+<p> one year experiense as asp.net core full stack  devopler & angular plus,  Passionate about creating New Projects and Build New Desgin architecture 
 some technologies i engoy working with C# ,Java script , SQLserver ,ASP.net Core , Angular +
 </p>
 
